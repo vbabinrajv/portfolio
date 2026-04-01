@@ -64,9 +64,6 @@ export default function About() {
                 <h3 className="text-xl font-bold mb-2">Education</h3>
                 <p className="font-semibold text-white">B.Tech in Computer Science and Engineering</p>
                 <p className="text-muted-foreground mb-3 text-sm">Cochin University of Science and Technology</p>
-                <div className="inline-flex items-center px-4 py-1.5 rounded-full bg-accent/10 border border-accent/20 text-accent text-sm font-bold">
-                  7.96 CGPA
-                </div>
               </div>
             </div>
           </div>

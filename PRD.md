@@ -18,7 +18,7 @@ The goal is to develop a high-end, interactive personal portfolio for Babinraj V
 
 ### B. About Me (The Narrative)
 - **Professional Summary**: Highlight 7+ years of experience in Energy, Utility, and Banking sectors.
-- **Education**: B.Tech in Computer Science and Engineering from Cochin University of Science and Technology (7.96 CGPA).
+- **Education**: B.Tech in Computer Science and Engineering from Cochin University of Science and Technology.
 - **Personal Touch**: Mentioning fluency in English, Malayalam, and Hindi.
 
 ### C. Experience (The Timeline)
